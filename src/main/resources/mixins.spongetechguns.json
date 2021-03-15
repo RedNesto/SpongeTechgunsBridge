@@ -1,0 +1,10 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(DEFAULT)",
+  "refmap": "mixins.spongetechguns.refmap.json",
+  "package": "io.github.rednesto.spongetechguns.mixin",
+  "mixins": [
+    "GenericProjectileMixin"
+  ]
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "sponge-techguns-bridge",
+    "name": "Sponge Techguns Bridge",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "spongeapi@7.0.0",
+      "techguns"
+    ]
+  }
+]
